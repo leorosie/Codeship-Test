@@ -1,0 +1,6 @@
+#chodeship-steps
+
+- name: hello world
+  tag: master
+  service: app
+  command: python3 hello-world.py

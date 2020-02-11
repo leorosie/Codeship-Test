@@ -1,0 +1,6 @@
+#codeship-servives.yml
+
+app:
+  build:
+    image: codeship/hello-world
+    dockerfile: Dockerfile
